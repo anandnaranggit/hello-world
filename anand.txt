@@ -1,2 +1,3 @@
 inside feature rich
 trying git for the third time
+new branch
